@@ -5,9 +5,30 @@ body {
 	max-width: 50%;
 	color: rgb(12, 12, 12);
 }
-.img {
-	width: 300px;
+
+h1 {
+	background-color: cornflowerblue;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 36;
 }
 
+h2 {
+	background-color: cornflowerblue;
+}
 
+h3 {
+	background-color: cornflowerblue;
+}
+
+h4 {
+	background-color: cornflowerblue;
+}
+
+h5 {
+	background-color: cornflowerblue;
+}
+
+h6 {
+	background-color: cornflowerblue;
+}
 }
