@@ -1,34 +1,14 @@
 body {
-	background-color: 9bc4e2;
-	margin: auto;
-	font-size: 18px;
-	max-width: 50%;
-	color: rgb(12, 12, 12);
+    background-color: 9bc4e2;
+    margin: auto;
+    font-size: 18px;
+    max-width: 50%;
+    color: rgb(12, 12, 12);
 }
 
 h1 {
-	background-color: cornflowerblue;
-	font-family: 'Times New Roman', Times, serif;
-	font-size: 36;
-}
-
-h2 {
-	background-color: lightskyblue;
-}
-
-h3 {
-	background-color: cornflowerblue;
-}
-
-h4 {
-	background-color: cornflowerblue;
-}
-
-h5 {
-	background-color: cornflowerblue;
-}
-
-h6 {
-	background-color: cornflowerblue;
+    background-color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36;
 }
 }
