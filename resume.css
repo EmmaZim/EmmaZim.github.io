@@ -11,4 +11,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 36;
 }
+h2 {
+    background-color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32;
+}
 }
